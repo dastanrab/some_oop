@@ -12,7 +12,7 @@ class Model
     function set($name)
     {
 
-        $this->name = $name;
+        $this->name = $name." hi";
         return ($this->greet)($this->name);
 
     }
