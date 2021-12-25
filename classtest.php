@@ -25,6 +25,6 @@ $greet=function($n)
 
 
 $test = new Model($greet);
-echo $test->set('salman');
+echo $test->set('salman rab');
 
 ?>
